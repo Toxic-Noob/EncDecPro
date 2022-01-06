@@ -9,6 +9,7 @@ from modules.decode import *
 from modules.encode import *
 from modules.secret_msg import *
 from modules.hash_dec import *
+from modules.update import *
 import requests
 
 def psb(z):
@@ -365,9 +366,10 @@ def options():
     print("    [05] Secret Massage")
     print("    [06] Tool's Manual")
     print("    [07] Supported Encryptions")
+    print("    [08] Update Tool")
     print("    [##] Exit")
     ip = input("\n    [*] Enter Your Choice:> \033[37m").replace("0", "").replace("##", "#")
-    while not ip in ["1", "2", "3", "4", "5", "6", "7", "#"]:
+    while not ip in ["1", "2", "3", "4", "5", "6", "7", "8", "#"]:
         psb("\n\033[91m    [!] Enter a Correct Choice!!\033[92m")
         ip = input("\n    [*] Enter Your Choice:> \033[37m").replace("0", "").replace("##", "#")
     if (ip=="1"):
@@ -402,6 +404,10 @@ def options():
         p = input("\n\033[92m    [*] Press Enter To Go Back To Main Menu...")
     elif (ip == "7"):
         supports()
+        p = input("\n\033[92m    [*] Press Enter To Go Back To Main Menu...")
+    elif (ip == "8"):
+        logo()
+        update()
         p = input("\n\033[92m    [*] Press Enter To Go Back To Main Menu...")
     elif (ip == "#"):
         logout()
