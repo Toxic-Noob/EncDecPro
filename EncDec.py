@@ -52,8 +52,8 @@ def logo():
 def logout():
     psb("\n    \033[92m[*] Thanks For Using Our Tool 💞💞")
     psb("    [*] Visit Our GitHub For More Tools....")
-    os.system("xdg-open https://github.com/Toxic-Noob/")
     psb("\n    \033[33m[\033[92m   https://github.com/Toxic-Noob/   \033[33m]\033[37;40;0m\n")
+    os.system("xdg-open https://github.com/Toxic-Noob/")
     sys.exit()
 
 def supports():
