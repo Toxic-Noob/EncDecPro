@@ -95,7 +95,7 @@ git clone https://github.com/Toxic-Noob/EncDecPro
 
 cd EncDecPro
 
-pip install -r requirements.txt
+pip install requests
 
 python EncDec.py
 
@@ -103,7 +103,7 @@ python EncDec.py
 # Single Line Installation Commands:
 
 ```shell script
-apt update -y && apt upgrade -y && pkg install python git -y && git clone https://github.com/Toxic-Noob/EncDecPro && cd EncDecPro && pip install -r requirements.txt && python EncDec.py
+apt update -y && apt upgrade -y && pkg install python git -y && git clone https://github.com/Toxic-Noob/EncDecPro && cd EncDecPro && pip install requests && python EncDec.py
 ```
 
 # Contact:
