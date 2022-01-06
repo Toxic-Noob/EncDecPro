@@ -335,8 +335,8 @@ def custom_dec():
 
 def sec_msg():
     logo()
-    print("\033[92m\n    [01] Encode Massage")
-    print("    [02] Decode Massage")
+    print("\033[92m\n    [01] Encrypt Massage")
+    print("    [02] Decrypt Massage")
     print("    [##] Exit")
     igp = input("\n    [*] Enter Your Choice:> \033[37m").replace("0", "").replace("##", "#")
     while not igp in ["1", "2", "#"]:
@@ -359,10 +359,10 @@ def sec_msg():
 def options():
     oppsb("\033[92m\n    [*] Choose Your Option...")
     time.sleep(0.5)
-    print("\n    [01] Simple Decode")
-    print("    [02] Simple Encode")
-    print("    [03] Custom Decode")
-    print("    [04] Custom Encode")
+    print("\n    [01] Simple Decryption")
+    print("    [02] Simple Encryption")
+    print("    [03] Custom Decryption")
+    print("    [04] Custom Encryption")
     print("    [05] Secret Massage")
     print("    [06] Tool's Manual")
     print("    [07] Supported Encryptions")
