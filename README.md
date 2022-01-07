@@ -28,6 +28,25 @@
 
 [10] Rot13
 
+# Supported Hashes :
+
+<big> This Tool Has 08 Supported Hashes. They Are:</big>
+
+[01] MD4
+
+[02] MD5
+
+[03] Sha1
+
+[04] Sha224
+
+[05] Sha256
+
+[06] Sha384
+
+[07] Sha512
+
+[08] BCrypt
 
 # Option's Description :
 
