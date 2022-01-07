@@ -46,7 +46,7 @@ def logo():
     logopsb(" _____            ____              ____            \n| ____|_ __   ___|  _ \  ___  ___  |  _ \ _ __V1.0  \n|  _| | '_ \ / __| | | |/ _ \/ __| | |_) | '__/ _ \ \n| |___| | | | (__| |_| |  __/ (__  |  __/| | | (_) |\n|_____|_| |_|\___|____/ \___|\___| |_|   |_|  \___/ \n                                                    \n")
     logopsb("\033[3;90m                            A Product Of ToxicNoob\033[0;92m")
     time.sleep(0.6)
-    logopsb("\033[34m\n|****************************************************|\n|\033[3m Author   : ToxicNoob                               \033[0;34m|\n|\033[3m Tool     : Encrypt Decryptor Pro                   \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/Toxic-Noob/	     \033[0;34m|\n|\033[3m Coded By : HunterSl4d3      		     	     \033[0;34m|\n******************************************************")
+    logopsb("\033[34m\n|****************************************************|\n|\033[3m Author   : ToxicNoob                               \033[0;34m|\n|\033[3m Tool     : Encrypt Decryptor Pro                   \033[0;34m|\n|\033[3m Version  : 1.1                                     \033[0;34m|\n|\033[3m Link     : https://www.github.com/Toxic-Noob/	     \033[0;34m|\n|\033[3m Coded By : HunterSl4d3      		     	     \033[0;34m|\n******************************************************")
     print("\033[92m")
     time.sleep(0.6)
 
