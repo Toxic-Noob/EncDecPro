@@ -1,0 +1,6 @@
+# Encoded By PyEncryptor
+# A Product Of ToxicNoob
+# https://github.com/Toxic-Noob
+
+import marshal, base64, zlib
+exec(marshal.loads(zlib.decompress(base64.b64decode('eF5dks1v00AQxd86n0apWlXlwAlx8yncOBWEBBKccnAPSJGQ5Xq31KnjpLtLaKT0FP5vOm+cUISVfZ6d3Zn5zTgVDk8i74+ywkbEys+gAZYGcwPDfYImwTyB7eE3MO/B9tXoww7UGMANYYe4S+A9XILFCHaEV/MxXAo3xt7Ajo/H/YPH3Hu0mv4qS6V0/UeezIgVhyLXld+u46wiJZ09WZ9khde8oZgSupdiBnvgEdgBC/FA8vHyLFyILlf2Z+PC218rb5s6xGl8iJH5vF6KfZHV2rVqeFfaOGCRdVPHjoX+m7pxmbyhIsVFTkSOSQtbxpIXAwXmpamOyH+x33SRRDUQAqHdCXmCxwS7BF++WoIzbJbxk+QjBhCm8mV119FyTrdluNWCcSy7I0LkkXVV0KNn2Jyz1OaWZd3yUqAHJjWnpmIhnnHpcN+LPLwj2efv0wPaAjrghNQyYIEVdoL3sOvBj+i5uh/h2z8d6GxZyLXVyrpcrG6/cb6+2WYsmJMmf8ETbtmJdhFdiAW7/K+LnP2eygqMgTkxE3NuhkbnUBTsryhqTrC+FMk080RkXYbQ1NdT5uxIiBe2QWec84rmPiRqy6UrCmUq/Y+NGjpvRjWufcZSq5sw4y+7P9sHIoQzkTMzSdJBOkzHE6E9N0+91I6L'))))
