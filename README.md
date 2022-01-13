@@ -1,4 +1,4 @@
-# EncDecPro V1.0
+# EncDecPro V1.1
 
 <big>[*] This Tool Is Made For Decrypting Your Massages. It Has Auto Detection method For Your Decryption. You Don't Need To Include Your Massage Encryption Method, This Tool Will Autometically Detect Your Massage's Decryption Method, If The Method Is In The Database Of Tool.
 
